@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Strange and wonderful news from Glasgow, being a full and true account of a terrible earthquake that happened there on Thursday the 10. of this instant July ... also an account of some prodegies seen in the air at the same time ... with an impartial account of the present affairs of the kingdom ...</title>
+            <author>J. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B06744</idno>
+            <idno type="STC">Wing W71</idno>
+            <idno type="STC">ESTC R186103</idno>
+            <idno type="EEBO-CITATION">53299349</idno>
+            <idno type="OCLC">ocm 53299349</idno>
+            <idno type="VID">180071</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B06744)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180071)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2812:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Strange and wonderful news from Glasgow, being a full and true account of a terrible earthquake that happened there on Thursday the 10. of this instant July ... also an account of some prodegies seen in the air at the same time ... with an impartial account of the present affairs of the kingdom ...</title>
+                  <author>J. W.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through with loss of text.</note>
+                  <note>Reproduction of original in: National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Earthquakes --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180071:1"/>
+            <!-- PDF PAGE 7 -->
+            <pb facs="tcp:180071:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:180071:2"/>
+            <!-- PDF PAGE 8 -->
+            <pb facs="tcp:180071:3"/>
+            <!-- PDF PAGE 9 -->
+            <pb facs="tcp:180071:3"/>
+            <!-- PDF PAGE 9 -->
+            <p>Strange and Wonderful News from GLASGOW IN SCOTLAND,</p>
+            <p>Being a full and true Account of A Terrible Earthquake
+That happened there on <hi>Thurſday</hi> the 10. of this Inſtant <hi>July,</hi> attended with Whirlwinds, and great Guſts of Thunder and Lightning, the which continued for the ſpace of half an hour, to the Amazement (and not only ſo) but alſo damage of the Inhabitants.</p>
+            <p>ALSO An Account of ſome Prodegies ſeen in the Air at the ſame time, the which were moſt Dreadful and Re<g ref="char:EOLhyphen"/>markable to the beholders.</p>
+            <p>With an Impartial Account of the preſent Affairs in that Kingdom; as it was imparted by a Gentleman of worth living in the place aforeſaid. With many other circumſtances herein Recited.</p>
+            <p>
+               <hi>London,</hi> Printed 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180071:4"/>
+            <!-- PDF PAGE 10 -->
+            <pb n="3" facs="tcp:180071:4"/>
+            <!-- PDF PAGE 10 -->
+            <head>Strange and Wonderful News from <hi>Glaſgow</hi> in <hi>Scotland,</hi> &amp;c.</head>
+            <p>STrange and wonderful are the Works of an Omni<g ref="char:EOLhyphen"/>potent God, whoſe boundleſs Power commands both Sea and Land, ſtills the winds, and tames the raging VVaves, at whoſe Rebuke the Heavens fly, the Earth doth tremble, and the Mountains melt, and with his looks he dries the deep; Juſtice and Judgment are be<g ref="char:EOLhyphen"/>fore his Face, and yet his Mercy Triumphs o're his Power. A God ſo great and good, what Mortal can but with Reverence Adore him: How loath he is to cruſh Rebellious man, and like an indulgent Father, ſhakes his threatning Rod, but yet forbears to ſtrike the weighty blow; for Portants and Prodegies ſo oft have been ſeen of late in theſe Dominions, that they have almoſt loſt their Names, and are become but common things; but amongſt all the numbers that appearance made to ſignifie in Characters the Divine will of Hea<g ref="char:EOLhyphen"/>ven to thoſe Rebellious men, that dare unlawfully reſiſt Anointed Power, ſtriving contrary to the will of the wiſe Creator of their Mundine frame, to inovate in Church and State Affairs, by Rapines, cruel Murders, and the like, wherefore Heaven thought fit in time to curb their Infolencies, and by looſening the Foundation of the World, to ſhake them out, and drive them
+<pb n="4" facs="tcp:180071:5"/>
+               <!-- PDF PAGE 11 -->thence, the which may be conjectured by a terrible Earthquake; with ſeveral ſtrange and wonderful Pro<g ref="char:EOLhyphen"/>degies, the which appeared on <hi>Thurſday</hi> the <hi>10th</hi> of this inſtant <hi>July</hi> 1679. at <hi>Strevin Lansdown</hi> another place in the <hi>Weſt</hi> of the Kingdom of <hi>Scotland,</hi> where the Rebels Camp was before their defeat by his Maje<g ref="char:EOLhyphen"/>ſties Army, under the Command of his Grace the Duke of <hi>Monmouth,</hi> the certainty of which were atte<g ref="char:EOLhyphen"/>ſted by ſeveral credible perſons Inhabiting theſe places, and communicated by a Letter from one Mr. <hi>Williams</hi> a Gentleman in the City of <hi>Glaſgow,</hi> to his Friend in <hi>London,</hi> the manner thus, That on <hi>Thurſday</hi> the date a<g ref="char:EOLhyphen"/>foreſaid, about five of the Clock in the Afternoon, the Skies began to darken, and thick Clouds over-ſpread the Face of Heaven, whereupon ſuch dreadful Volleys of Thunder and ſtreaming flaſhes of Lightning diſcharg<g ref="char:EOLhyphen"/>ed from broaken Clouds, attended by fearful Storms of Hail and Rain, that people from all parts were forced to take ſhelter in Barnes, Houſes, and other convenient places they could firſt procure; the which Storm or Tempeſt laſted for the ſpace of two hours without inter<g ref="char:EOLhyphen"/>miſſion, tho being ſometimes more violent than others; the Hail-ſtones being of ſuch magnitude, that they broke and ſhattered many Glaſs-windows to a conſiderable damage; as likewiſe the Tiles falling off the Houſes in ſeveral places, the Morter that ſupported them being looſened by the violence of the Tempeſt, at which in<g ref="char:EOLhyphen"/>letts the wet poured in at the Roofs of the Houſes; during this violent Storm, to compleat the Scene, and make it appear more dreadful, the Baſis of the Earth
+<pb n="5" facs="tcp:180071:5"/>
+               <!-- PDF PAGE 11 -->began to heave, as if all Nature had been oppreſſed with ſome ponderous pain, upon which the tottering Fabricks began to Dance, and Diſhes both Puter and Earthen, betook themſelves to motion as if they had been anima<g ref="char:EOLhyphen"/>ted, and leap from off the Shelves, Stools, Chairs, and other Utonſils in the like Poſture, whilſt in the Streets, the Tiles that did before but drop one by one, now fall as thick in compariſon as Hail, ſo that people durſt not go out of their Houſes for fear, but ſome doubting the ſubſtantialneſs of their Buildings, deſperately ventured with their VVives and Children abroad, rather truſt<g ref="char:EOLhyphen"/>ing to the Fury of the Storm, than to their Dancing habitation: The dreadful motion continued near the ſpare of half an hour, in which ſpace it gave three ſe<g ref="char:EOLhyphen"/>veral onſets very furious and ſtrange; no ſooner was it over, but the Storm of Thunder, Lighning, and Hail, began by little and little to abate, the which no ſooner done, but a great bright Cloud ariſing from the <hi>North-Weſt,</hi> and coming forward before the wind amain, and ſtill as it came, ſeemed to open as with two folding doors, from whence exceeding brightneſs iſſued forth, and at every ſuch diſcloſing, ſeveral ſtrange ſhapes ap<g ref="char:EOLhyphen"/>peared in it, as at firſt the perfect Figure of a Mans hand, with a Scepter, the ſhape of an Horſe, the per<g ref="char:EOLhyphen"/>fect date of this Year 79, and ſeveral other ſtrange things, and Repreſentations; for at every Opening there was a ſeveral Scene, and a darting brightneſs; it continued ſo to do till it deſcended our Horiſon at <hi>South-Eaſt:</hi> before this Tempeſt, Earth-quake, and Prodegy happened, ſeveral people that were abroad in the Field about their
+<pb n="6" facs="tcp:180071:6"/>
+               <!-- PDF PAGE 12 -->occaſions, do affirm, That they heard a noiſe in the Earth like the Bellowing of a Bull, and now and then certain VVhirlwinds whiſtled about with unuſual force and violence; and others affirm, they heard ſwift voices in the Air, but in that they might probably be miſtaken by the whiſtling of thoſe ſorts of Collateral VVinds, called as before, VVhirlwinds, the which keep no cer<g ref="char:EOLhyphen"/>tain Point nor Compaſs, but fly in a Body careleſly, and were by the Antients taken to proceede from the bad Influence of ſome malignant Star. And thus much Sir concerning what I thought to give you an Impartial Account of, for the confirmation of which, I could in<g ref="char:EOLhyphen"/>cert many credible Atteſtators, but 'tis a thing ſo gene<g ref="char:EOLhyphen"/>rally known, that I think there is little need of ſo do<g ref="char:EOLhyphen"/>ing. Sir, I reſt, yours to ſerve you,</p>
+            <closer>
+               <signed>J. W.</signed>
+               <dateline>Glaſgow <date>July 11. 79.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>POSTSCRIPT.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Have thought fit to acquaint you farther, concerning the preſent Poſture things are in here, after the late overthrow the Rebels received near <hi>Hamelton Parke,</hi> by his Majeſties Forces, under the Command of his Grace the Duke of <hi>Monmouth</hi> (who behaved himſelf very Gal<g ref="char:EOLhyphen"/>lantly in the Action, gaining the Applauſe of all his Majeſties true Subjects in this Kingdom; they ſcattered and diſperced themſelves, ſome taking ſhelter in the VVoods, from whence they were Ferreted by Lieute<g ref="char:EOLhyphen"/>nant
+<pb n="7" facs="tcp:180071:6"/>
+               <!-- PDF PAGE 12 -->Collonel <hi>Doglas,</hi> others flying croſs the Country in ſuch Confuſion, and diſpe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rcing themſelves, throwing away their Armes for fear of being diſcovered, that they can never be able to make Head again, eſpecially by reaſon of the prudent care his Majeſties Counſel and Miniſters of State have put in practiſe for their ſecurity for the future. We have an Account, that ſeveral of the Grand Rebels are fled the Land to avoid purſuing Juſtice; and all things at preſent are in a very good Poſture.</p>
+            <p>And now I have thought fit to advertiſe my Reader of certain Philoſophical and Aſtrologick Opinions con<g ref="char:EOLhyphen"/>cerning theſe and ſuch kind of Elementary violences as to the natural Cauſe, but we being Chriſtians, muſt al<g ref="char:EOLhyphen"/>ways acknowledg a Supernatural Intendency from the Divine Prerogative. Firſt then, as to the natural cauſe Philoſophers aver, that Thunder and Lightning are cau<g ref="char:EOLhyphen"/>ſed by hot Exhalations attracted into the Superior Regi<g ref="char:EOLhyphen"/>ons by the heat of the Sun, but being of two groſs and humid a Body to joyn AEtherial or Celeſtial Fire, it is repulſed by the Beams of the Stars, and deſcending to its Center (the Earth) with impetuous Violence, often finds oppoſition by reaſon of the great Maſs of Waters that are ſuſtained by thick Clouds in the Air, and when it does, it plunging into its oppoſite Element, forces its way, and rends the Clouds to Attoms, and ſend forth great Glares of Lightning, the which though it appear before the noiſe of the Thunder-clap is heard, yet both at the ſame inſtant iſſue, but the ſight being more quick of motion and piercing, has the firſt Prerogative, where<g ref="char:EOLhyphen"/>as
+<pb n="8" facs="tcp:180071:7"/>
+               <!-- PDF PAGE 13 -->the hearing comes oblique and wandring, by reaſon of the turnings and Motions of the Sphears, and thus much of Thunder and Lightning. Hail is congealed from the ſolid Bodies of water hanging in the Air by the continual reflection of the Sun-Beams; for note, the Sun has not ſo much Power in the Airy Region, as it has on Earth, by reaſon of its Repercuſſion, <hi>&amp;c.</hi> Earthquakes are caus'd by heat and cold (two contrary Elements incloſed in its Bowels) ſtill ſtriving with each other for th Maiſtry. Wind and Fire chaſing each other, and not getting yent, force the Earth to Groah, Tremble, and Quake in a fearful manner; ſo that it many times openeth and ſwalloweth up great Hills and Mountains, Towns and Cities into its vaſt Abiſs, as at this time where ſeveral Famous Cities ſtood, there appears now nothing but ſtanding Pools of VVater. And again, ſe<g ref="char:EOLhyphen"/>veral large Iſlands have been puffed out of the Sea, as the Iſlands of <hi>Rhoads</hi> and <hi>Selos,</hi> as alſo many thouſands have loſt their lives by ſuch manner of Earthquakes, as <hi>Joſephus</hi> that Excellent Hiſtorian recounteth, That in the Reign of <hi>Tygranes</hi> King of <hi>Armenia,</hi> by an Earth<g ref="char:EOLhyphen"/>quake 1200000 <hi>Jewes</hi> periſhed: And that in the Reign of <hi>Tiberius</hi> Emperor of <hi>Rome,</hi> 12 Cities in <hi>Aſia</hi> fell in one Night by an Earthquake. As alſo in our Modern times there happened an Earthquake in the Realm of <hi>Portugal,</hi> the which continued for the ſpace of 8 days, in which time in <hi>Lisborn,</hi> the Metropolitan City of that Kingdom, it Ruin'd 1200 Houſes, and deſtroyed many People, ſuch are its dreadful Effects, to which we can only ſay it is the Lords doings, and therefore marvellous in our Eyes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180071:7"/>
+            <!-- PDF PAGE 13 -->
+            <pb facs="tcp:180071:8"/>
+            <!-- PDF PAGE 14 -->
+            <pb facs="tcp:180071:8"/>
+            <!-- PDF PAGE 14 -->
+         </div>
+      </body>
+   </text>
+</TEI>
